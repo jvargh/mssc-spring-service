@@ -1,3 +1,3 @@
 # MSSC Spring Service
 
-Spring boot microservice project
+Spring Boot microservice project
